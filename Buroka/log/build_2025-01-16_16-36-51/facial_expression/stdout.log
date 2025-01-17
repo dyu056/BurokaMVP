@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/facial_expression/facial_expression.egg-info
+writing ../../build/facial_expression/facial_expression.egg-info/PKG-INFO
+writing dependency_links to ../../build/facial_expression/facial_expression.egg-info/dependency_links.txt
+writing entry points to ../../build/facial_expression/facial_expression.egg-info/entry_points.txt
+writing requirements to ../../build/facial_expression/facial_expression.egg-info/requires.txt
+writing top-level names to ../../build/facial_expression/facial_expression.egg-info/top_level.txt
+writing manifest file '../../build/facial_expression/facial_expression.egg-info/SOURCES.txt'
+reading manifest file '../../build/facial_expression/facial_expression.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/facial_expression/facial_expression.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dyu056/Projects/Buroka/build/facial_expression/build
+creating /home/dyu056/Projects/Buroka/build/facial_expression/build/lib
+creating /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression
+copying facial_expression/__init__.py -> /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression
+copying facial_expression/facial_expression.py -> /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression
+running install
+running install_lib
+creating /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression
+copying /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression/__init__.py -> /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression
+copying /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression/facial_expression.py -> /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression
+byte-compiling /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression/facial_expression.py to facial_expression.cpython-310.pyc
+running install_data
+creating /home/dyu056/Projects/Buroka/install/facial_expression/share/ament_index
+creating /home/dyu056/Projects/Buroka/install/facial_expression/share/ament_index/resource_index
+creating /home/dyu056/Projects/Buroka/install/facial_expression/share/ament_index/resource_index/packages
+copying resource/facial_expression -> /home/dyu056/Projects/Buroka/install/facial_expression/share/ament_index/resource_index/packages
+copying package.xml -> /home/dyu056/Projects/Buroka/install/facial_expression/share/facial_expression
+running install_egg_info
+Copying ../../build/facial_expression/facial_expression.egg-info to /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression-0.0.0-py3.10.egg-info
+running install_scripts
+Installing facial_expression script to /home/dyu056/Projects/Buroka/install/facial_expression/lib/facial_expression
+writing list of installed files to '/home/dyu056/Projects/Buroka/build/facial_expression/install.log'

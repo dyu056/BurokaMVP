@@ -1,0 +1,25 @@
+[0.612s] Invoking command in '/home/dyu056/Projects/Buroka/src/facial_expression': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dyu056/Projects/Buroka/build/facial_expression/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/facial_expression build --build-base /home/dyu056/Projects/Buroka/build/facial_expression/build install --record /home/dyu056/Projects/Buroka/build/facial_expression/install.log --single-version-externally-managed install_data
+[0.788s] running egg_info
+[0.788s] writing ../../build/facial_expression/facial_expression.egg-info/PKG-INFO
+[0.788s] writing dependency_links to ../../build/facial_expression/facial_expression.egg-info/dependency_links.txt
+[0.788s] writing entry points to ../../build/facial_expression/facial_expression.egg-info/entry_points.txt
+[0.789s] writing requirements to ../../build/facial_expression/facial_expression.egg-info/requires.txt
+[0.789s] writing top-level names to ../../build/facial_expression/facial_expression.egg-info/top_level.txt
+[0.790s] reading manifest file '../../build/facial_expression/facial_expression.egg-info/SOURCES.txt'
+[0.790s] adding license file 'LICENSE'
+[0.790s] writing manifest file '../../build/facial_expression/facial_expression.egg-info/SOURCES.txt'
+[0.790s] running build
+[0.790s] running build_py
+[0.791s] copying facial_expression/facial_expression.py -> /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression
+[0.791s] running install
+[0.791s] running install_lib
+[0.791s] copying /home/dyu056/Projects/Buroka/build/facial_expression/build/lib/facial_expression/facial_expression.py -> /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression
+[0.792s] byte-compiling /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression/facial_expression.py to facial_expression.cpython-310.pyc
+[0.792s] running install_data
+[0.792s] running install_egg_info
+[0.793s] removing '/home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression-0.0.0-py3.10.egg-info' (and everything under it)
+[0.794s] Copying ../../build/facial_expression/facial_expression.egg-info to /home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages/facial_expression-0.0.0-py3.10.egg-info
+[0.794s] running install_scripts
+[0.809s] Installing facial_expression script to /home/dyu056/Projects/Buroka/install/facial_expression/lib/facial_expression
+[0.809s] writing list of installed files to '/home/dyu056/Projects/Buroka/build/facial_expression/install.log'
+[0.832s] Invoked command in '/home/dyu056/Projects/Buroka/src/facial_expression' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dyu056/Projects/Buroka/build/facial_expression/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dyu056/Projects/Buroka/install/facial_expression/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/facial_expression build --build-base /home/dyu056/Projects/Buroka/build/facial_expression/build install --record /home/dyu056/Projects/Buroka/build/facial_expression/install.log --single-version-externally-managed install_data

@@ -1,0 +1,37 @@
+[0.541s] Invoking command in '/home/dyu056/Projects/Buroka/src/keyboard_publisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dyu056/Projects/Buroka/build/keyboard_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_publisher build --build-base /home/dyu056/Projects/Buroka/build/keyboard_publisher/build install --record /home/dyu056/Projects/Buroka/build/keyboard_publisher/install.log --single-version-externally-managed install_data
+[0.696s] running egg_info
+[0.696s] creating ../../build/keyboard_publisher/keyboard_publisher.egg-info
+[0.697s] writing ../../build/keyboard_publisher/keyboard_publisher.egg-info/PKG-INFO
+[0.697s] writing dependency_links to ../../build/keyboard_publisher/keyboard_publisher.egg-info/dependency_links.txt
+[0.697s] writing entry points to ../../build/keyboard_publisher/keyboard_publisher.egg-info/entry_points.txt
+[0.697s] writing requirements to ../../build/keyboard_publisher/keyboard_publisher.egg-info/requires.txt
+[0.697s] writing top-level names to ../../build/keyboard_publisher/keyboard_publisher.egg-info/top_level.txt
+[0.697s] writing manifest file '../../build/keyboard_publisher/keyboard_publisher.egg-info/SOURCES.txt'
+[0.698s] reading manifest file '../../build/keyboard_publisher/keyboard_publisher.egg-info/SOURCES.txt'
+[0.698s] writing manifest file '../../build/keyboard_publisher/keyboard_publisher.egg-info/SOURCES.txt'
+[0.698s] running build
+[0.698s] running build_py
+[0.699s] creating /home/dyu056/Projects/Buroka/build/keyboard_publisher/build
+[0.699s] creating /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib
+[0.699s] creating /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib/keyboard_publisher
+[0.699s] copying keyboard_publisher/__init__.py -> /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib/keyboard_publisher
+[0.699s] copying keyboard_publisher/keyboard_publisher.py -> /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib/keyboard_publisher
+[0.699s] running install
+[0.699s] running install_lib
+[0.699s] creating /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher
+[0.699s] copying /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib/keyboard_publisher/__init__.py -> /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher
+[0.700s] copying /home/dyu056/Projects/Buroka/build/keyboard_publisher/build/lib/keyboard_publisher/keyboard_publisher.py -> /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher
+[0.700s] byte-compiling /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher/__init__.py to __init__.cpython-310.pyc
+[0.700s] byte-compiling /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher/keyboard_publisher.py to keyboard_publisher.cpython-310.pyc
+[0.700s] running install_data
+[0.700s] creating /home/dyu056/Projects/Buroka/install/keyboard_publisher/share/ament_index
+[0.700s] creating /home/dyu056/Projects/Buroka/install/keyboard_publisher/share/ament_index/resource_index
+[0.700s] creating /home/dyu056/Projects/Buroka/install/keyboard_publisher/share/ament_index/resource_index/packages
+[0.700s] copying resource/keyboard_publisher -> /home/dyu056/Projects/Buroka/install/keyboard_publisher/share/ament_index/resource_index/packages
+[0.700s] copying package.xml -> /home/dyu056/Projects/Buroka/install/keyboard_publisher/share/keyboard_publisher
+[0.700s] running install_egg_info
+[0.702s] Copying ../../build/keyboard_publisher/keyboard_publisher.egg-info to /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages/keyboard_publisher-0.0.0-py3.10.egg-info
+[0.702s] running install_scripts
+[0.715s] Installing keyboard_publisher script to /home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/keyboard_publisher
+[0.715s] writing list of installed files to '/home/dyu056/Projects/Buroka/build/keyboard_publisher/install.log'
+[0.731s] Invoked command in '/home/dyu056/Projects/Buroka/src/keyboard_publisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/dyu056/Projects/Buroka/build/keyboard_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dyu056/Projects/Buroka/install/keyboard_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/keyboard_publisher build --build-base /home/dyu056/Projects/Buroka/build/keyboard_publisher/build install --record /home/dyu056/Projects/Buroka/build/keyboard_publisher/install.log --single-version-externally-managed install_data

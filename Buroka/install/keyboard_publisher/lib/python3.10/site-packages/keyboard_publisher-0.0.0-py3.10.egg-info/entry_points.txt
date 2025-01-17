@@ -1,0 +1,3 @@
+[console_scripts]
+keyboard_publisher = keyboard_publisher.keyboard_publisher:main
+
