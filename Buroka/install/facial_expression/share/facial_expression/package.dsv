@@ -1,6 +1,0 @@
-source;share/facial_expression/hook/pythonpath.ps1
-source;share/facial_expression/hook/pythonpath.dsv
-source;share/facial_expression/hook/pythonpath.sh
-source;share/facial_expression/hook/ament_prefix_path.ps1
-source;share/facial_expression/hook/ament_prefix_path.dsv
-source;share/facial_expression/hook/ament_prefix_path.sh
