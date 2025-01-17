@@ -1,3 +1,0 @@
-[console_scripts]
-facial_expression = facial_expression.facial_expression:main
-
